@@ -1,0 +1,15 @@
+body {
+  background: radial-gradient(circle, #212e73 0%, #252632 83%);
+  text-align: center;
+  color: white;
+  font-family: "Bookman Old Style"; }
+
+p {
+  font-size: 20px;
+  line-height: 39px; }
+
+.container {
+  width: 800px;
+  margin: 5 auto; }
+
+/*# sourceMappingURL=style.css.map */
