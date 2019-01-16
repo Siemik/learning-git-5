@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Siemik/learning-git-5#readme",
   "dependencies": {
     "browser-sync": "^2.26.3"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0"
   }
 }
