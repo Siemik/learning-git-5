@@ -10,10 +10,10 @@ body {
 p {
   font-size: 20px;
   line-height: 39px;
+ display: -ms-flexbox;
  display: flex }
 
 .container {
   width: 800px;
   margin: 0 auto; }
-
 /*# sourceMappingURL=style.css.map */
